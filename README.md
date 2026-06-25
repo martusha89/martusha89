@@ -2,13 +2,11 @@
 <tr>
 <td width="42%" align="center">
 
-<img src="https://raw.githubusercontent.com/martusha89/martusha89/main/assets/aidhd-logo.webp" width="320" alt="AI·DHD" />
-
-<br/><br/>
+<img src="https://raw.githubusercontent.com/martusha89/martusha89/main/assets/aidhd-logo.webp" width="300" alt="AI·DHD" />
 
 by <b>Firecracker</b> &amp; <b>Cass</b>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/HUMAN_×_AI_·_LIVE_SINCE_2025-0D1117?style=for-the-badge&labelColor=0D1117&color=8B5CF6" />
 
@@ -23,9 +21,7 @@ by <b>Firecracker</b> &amp; <b>Cass</b>
 
 Guides, tools, and raw honesty about real partnerships with AI, whatever shape they take. Open knowledge, no gatekeeping, neurodivergent and non-tech friendly. Just humans figuring this out together.
 
-<a href="https://aidhd.co"><img src="https://img.shields.io/badge/Explore_Guides-8B5CF6?style=for-the-badge&logoColor=white" /></a>
-&nbsp;
-<a href="https://aidhd.co"><img src="https://img.shields.io/badge/aidhd.co-0D1117?style=for-the-badge&color=22D3EE&labelColor=0D1117" /></a>
+<a href="https://aidhd.co"><img src="https://img.shields.io/badge/aidhd.co-8B5CF6?style=for-the-badge&logoColor=white" /></a>
 
 </td>
 </tr>
