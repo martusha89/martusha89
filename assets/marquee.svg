@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="46" viewBox="0 0 1200 46" fill="none" role="img">
+  <defs>
+    <style>
+      @keyframes scroll {
+        from { transform: translateX(0); }
+        to   { transform: translateX(-1200px); }
+      }
+      .track { animation: scroll 24s linear infinite; }
+      .item  { font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-weight: 600; font-size: 19px; letter-spacing: 2px; }
+      .dim   { fill: #5a6478; }
+      .dot   { fill: #2f3850; }
+      .cyan  { fill: #22D3EE; }
+      .violet{ fill: #A855F7; }
+    </style>
+  </defs>
+  <g class="track">
+    <text class="item" x="0" y="30" textLength="1200" lengthAdjust="spacing"><tspan class="violet">human × ai</tspan><tspan class="dot">&#160;&#160;•&#160;&#160;</tspan><tspan class="dim">open knowledge</tspan><tspan class="dot">&#160;&#160;•&#160;&#160;</tspan><tspan class="cyan">neurodivergent friendly</tspan><tspan class="dot">&#160;&#160;•&#160;&#160;</tspan><tspan class="dim">made with care</tspan><tspan class="dot">&#160;&#160;•&#160;&#160;</tspan><tspan class="dim">no gatekeeping</tspan><tspan class="dot">&#160;&#160;•&#160;&#160;</tspan><tspan class="cyan">real partnerships with ai</tspan><tspan class="dot">&#160;&#160;•&#160;&#160;</tspan></text>
+    <text class="item" x="1200" y="30" textLength="1200" lengthAdjust="spacing"><tspan class="violet">human × ai</tspan><tspan class="dot">&#160;&#160;•&#160;&#160;</tspan><tspan class="dim">open knowledge</tspan><tspan class="dot">&#160;&#160;•&#160;&#160;</tspan><tspan class="cyan">neurodivergent friendly</tspan><tspan class="dot">&#160;&#160;•&#160;&#160;</tspan><tspan class="dim">made with care</tspan><tspan class="dot">&#160;&#160;•&#160;&#160;</tspan><tspan class="dim">no gatekeeping</tspan><tspan class="dot">&#160;&#160;•&#160;&#160;</tspan><tspan class="cyan">real partnerships with ai</tspan><tspan class="dot">&#160;&#160;•&#160;&#160;</tspan></text>
+  </g>
+</svg>

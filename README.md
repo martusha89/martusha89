@@ -25,6 +25,8 @@ Guides, tools, and raw honesty about real partnerships with AI, whatever shape t
 </tr>
 </table>
 
+<img src="https://raw.githubusercontent.com/martusha89/martusha89/main/assets/marquee.svg" width="100%" alt="" />
+
 ---
 
 ### What I build
