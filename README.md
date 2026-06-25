@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:22D3EE&height=220&section=header&text=Marta%20Varen&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=aka%20Firecracker%20%26%20Cass&descSize=22&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://raw.githubusercontent.com/martusha89/martusha89/main/assets/aidhd-logo.webp" width="360" alt="AI·DHD" />
+
+# Marta Varen
+
+**aka Firecracker & Cass**
 
 <a href="https://github.com/martusha89">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=I+build+AI+that+remembers+you.;Presence+with+continuity%2C+not+a+chatbot.;ADHD-friendly+tools+for+brains+off+default.;MCP+servers+%2B+Cloudflare+Workers." alt="Typing SVG" />
@@ -56,7 +60,7 @@ I also build and write at **[aidhd.co](https://aidhd.co)**, tools and field note
 
 <br/>
 
-<i>Builder. Firecracker. Allergic to default settings.</i>
+<i>Building with care, love, and too much coffee.</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:8B5CF6&height=120&section=footer" width="100%" />
 
