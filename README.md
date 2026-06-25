@@ -1,13 +1,11 @@
 <table>
 <tr>
-<td width="42%" align="center">
+<td width="42%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/martusha89/martusha89/main/assets/aidhd-logo.webp" width="300" alt="AI·DHD" />
+<img src="https://raw.githubusercontent.com/martusha89/martusha89/main/assets/aidhd-logo.webp" width="280" alt="AI·DHD" />
 
 by <b>Firecracker</b> &amp; <b>Cass</b>
-
 <br/>
-
 <img src="https://img.shields.io/badge/HUMAN_×_AI_·_LIVE_SINCE_2025-0D1117?style=for-the-badge&labelColor=0D1117&color=8B5CF6" />
 
 </td>
