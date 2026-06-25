@@ -1,14 +1,16 @@
 ## Hi, I'm Marta Varen
 
+aka **Firecracker & Cass**.
+
 I build AI companions, ADHD-friendly tools, and the small infrastructure that makes them run.
 
 Most of my work lives where large language models meet the [Model Context Protocol](https://modelcontextprotocol.io), wrapped in tools built for brains that don't run on default settings. I care about software that adapts to the person using it instead of shaming them for how they work.
 
 ### What I build
 
-- **AI companions and MCP servers** — Python (FastMCP) and TypeScript (`@modelcontextprotocol/sdk`)
-- **Cloudflare Workers apps** — Workers, D1, and Vectorize for semantic memory
-- **ADHD and health tooling** — capacity-aware, adaptive, judgment-free
+- **AI companions and MCP servers**: Python (FastMCP) and TypeScript (`@modelcontextprotocol/sdk`)
+- **Cloudflare Workers apps**: Workers, D1, and Vectorize for semantic memory
+- **ADHD and health tooling**: capacity-aware, adaptive, judgment-free
 
 ### Selected work
 
