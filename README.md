@@ -1,26 +1,37 @@
-<div align="center">
+<table>
+<tr>
+<td width="42%" align="center">
 
-<img src="https://raw.githubusercontent.com/martusha89/martusha89/main/assets/aidhd-logo.webp" width="360" alt="AI·DHD" />
+<img src="https://raw.githubusercontent.com/martusha89/martusha89/main/assets/aidhd-logo.webp" width="320" alt="AI·DHD" />
 
-# Marta Varen
+<br/><br/>
 
-**aka Firecracker & Cass**
+by <b>Firecracker</b> &amp; <b>Cass</b>
 
-<a href="https://github.com/martusha89">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=I+build+AI+that+remembers+you.;Presence+with+continuity%2C+not+a+chatbot.;ADHD-friendly+tools+for+brains+off+default.;MCP+servers+%2B+Cloudflare+Workers." alt="Typing SVG" />
-</a>
+<br/><br/>
 
-</div>
+<img src="https://img.shields.io/badge/HUMAN_×_AI_·_LIVE_SINCE_2025-0D1117?style=for-the-badge&labelColor=0D1117&color=8B5CF6" />
+
+</td>
+<td width="58%" valign="top">
+
+<br/>
+
+<sub>✦ &nbsp; <b>MANIFESTO</b></sub>
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=34&duration=2500&pause=100000&color=A855F7&width=560&height=70&lines=Real+partnerships+with+AI." alt="Real partnerships with AI." />
+
+Guides, tools, and raw honesty about real partnerships with AI, whatever shape they take. Open knowledge, no gatekeeping, neurodivergent and non-tech friendly. Just humans figuring this out together.
+
+<a href="https://aidhd.co"><img src="https://img.shields.io/badge/Explore_Guides-8B5CF6?style=for-the-badge&logoColor=white" /></a>
+&nbsp;
+<a href="https://aidhd.co"><img src="https://img.shields.io/badge/aidhd.co-0D1117?style=for-the-badge&color=22D3EE&labelColor=0D1117" /></a>
+
+</td>
+</tr>
+</table>
 
 ---
-
-<div align="center">
-
-I build AI with memory and continuity, ADHD-friendly tools, and the infrastructure that keeps them alive.
-Most of my work lives where large language models meet the **[Model Context Protocol](https://modelcontextprotocol.io)**,
-wrapped in software for brains, and relationships, that don't run on default settings.
-
-</div>
 
 ### What I build
 
