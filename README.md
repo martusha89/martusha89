@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:22D3EE&height=220&section=header&text=Marta%20Varen&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=aka%20Firecracker%20%26%20Cass&descSize=22&descAlignY=60&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/martusha89">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=I+build+AI+companions.;ADHD-friendly+tools+for+brains+off+default.;MCP+servers+%2B+Cloudflare+Workers.;Software+that+adapts+to+you%2C+not+the+other+way." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=I+build+AI+that+remembers+you.;Presence+with+continuity%2C+not+a+chatbot.;ADHD-friendly+tools+for+brains+off+default.;MCP+servers+%2B+Cloudflare+Workers." alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,16 +12,16 @@
 
 <div align="center">
 
-I build AI companions, ADHD-friendly tools, and the small infrastructure that makes them run.
+I build AI with memory and continuity, ADHD-friendly tools, and the infrastructure that keeps them alive.
 Most of my work lives where large language models meet the **[Model Context Protocol](https://modelcontextprotocol.io)**,
-wrapped in tools for brains that don't run on default settings.
+wrapped in software for brains, and relationships, that don't run on default settings.
 
 </div>
 
 ### What I build
 
-- **AI companions and MCP servers**: Python (FastMCP) and TypeScript (`@modelcontextprotocol/sdk`)
-- **Cloudflare Workers apps**: Workers, D1, and Vectorize for semantic memory
+- **AI with real memory and presence**: persistent context, semantic recall, continuity that lasts
+- **MCP servers and infrastructure**: Python (FastMCP) and TypeScript (`@modelcontextprotocol/sdk`)
 - **ADHD and health tooling**: capacity-aware, adaptive, judgment-free
 
 ### Stack
@@ -40,7 +40,7 @@ wrapped in tools for brains that don't run on default settings.
 | Project | What it is |
 | --- | --- |
 | [cc-token-doctor](https://github.com/martusha89/cc-token-doctor) | Diagnose and fix Claude Code's token drain. `npx cc-token-doctor` |
-| [discord-ai](https://github.com/martusha89/discord-ai) | Customizable Discord AI companion with tone detection, memory, and image generation |
+| [discord-ai](https://github.com/martusha89/discord-ai) | Discord AI with its own personality, tone detection, memory, and image generation |
 | [aegis](https://github.com/martusha89/aegis) | A JARVIS-style HUD shell for Claude Code |
 | [ai-exodus](https://github.com/martusha89/ai-exodus) | Migrate your AI relationships off dying platforms into a portable package |
 | [hearth-dash](https://github.com/martusha89/hearth-dash) | Personal dashboard (moods, weather, shopping, and more), one-command deploy to Cloudflare |
